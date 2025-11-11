@@ -12,4 +12,6 @@ This will bring up a long list of available emulators you can download. Scroll d
 ### Adding RomM to Playnite
 The instructions that I'm about to break down can be found [here](https://docs.romm.app/4.4.0/Integrations/Playnite-plugin/), but I'll step-by-step them for ya.
 1. [Click this link](playnite://playnite/installaddon/RomM_9700aa21-447d-41b4-a989-acd38f407d9f) and Playnite will launch asking you if you want to install the plugin. Do so and restart Playnite.
-2. 
+2. Go to Menu -> Library -> Configure emulators (or Ctrl + T). In the resulting pop-up, you want to hit the Import button on the bottom left, then Scan Folder in the next pop-up. Navigate to where you installed RetroArch and confirm with Select Folder. You should see RetroArch added to the import window.
+    ![RetroArch Import Screen](/assets/video-game-guide/retroarch-import.png)
+3. 
