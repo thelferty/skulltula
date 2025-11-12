@@ -30,3 +30,8 @@ Now you can import games from the server! Simply go to Menu -> Update Game Libra
     ![Importing RomM Games, with filters applied](/assets/video-games-guide/romm-import.png)
 Now you're playing games like it's 1995! (or 2005, or whatever year those games are from). You can use your controller to play them, and RetroArch should map the buttons correctly out of the box (or does a best guess. It did a pretty good job mapping GameCube button layout to my Xbox controller). You may notice that the games look much more pixelated than you remember - that's because these games were made for small CRT TVs, not 1080p/4K LCD monitors and TVs, so you're seeing all the imperfections that the fuzziness of old TVs kind of smoothed over. In the future, I'll add a section on how to download HD texture packs so they look like brand new! Or you can go ahead and do some googling, there's a LOT of info out there. 
 
+## Installing HD Texture Packs for Old Roms
+(coming soon)
+
+## Stream Games Around Your House With Sunshine and Moonlight
+(coming soon)
